@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <div className="title-row">
-      <h1>Firebase Recipes</h1>
+      <h1>Mohamed's Recipes</h1>
       </div>
     </div>
   )
